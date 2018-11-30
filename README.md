@@ -6,6 +6,8 @@ Collection of articles/videos/papers/books about distributed systems
 - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - [I heart logs](https://www.confluent.io/ebook/i-heart-logs-event-data-stream-processing-and-data-integration/)
 
+## Tutorials
+- [Raft](http://thesecretlivesofdata.com/raft/)
 
 ## Articles
 - [Jepsen Article Series](https://aphyr.com/tags/jepsen)
